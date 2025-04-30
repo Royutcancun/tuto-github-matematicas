@@ -7,4 +7,4 @@ function sumar(a, b) {
   }
 
   console.log(sumar(2,5));
-  console.log(restar(2,5));
+  console.log(restar(12,5));
